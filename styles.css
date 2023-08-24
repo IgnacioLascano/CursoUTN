@@ -1,0 +1,22 @@
+h1 {
+    color: #007bff;
+    font-size: 30px;
+    }
+
+#primer-parrafo {
+    color: #333;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-style: solid;
+    width: 50%;
+    }
+    
+#segundo-parrafo {
+    margin: auto;
+    color: #fad19c;
+    background-color: rgb(150, 144, 226);
+    font-size: 20px;
+    font-family: system-ui;
+    text-align: center;
+    width: 50%;
+    }
